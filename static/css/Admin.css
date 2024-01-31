@@ -1,0 +1,52 @@
+.container{
+    background-color: cyan;
+    width: 800px;
+    height: 50vh;
+    position: relative;
+    left: 650px;
+    top: 250px;
+text-align: center;
+font-weight: bolder;
+font-size: larger;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+
+
+}
+
+.child {
+    opacity: 0;
+    transition: .5s;
+}
+
+.parent:hover.child {
+
+    opacity: 1;
+}
+
+
+
+
+.form{
+    position: absolute;
+    top: 120px;
+    left: 250px;
+   
+    
+}
+.formC{
+    width: 300px;
+    height: 2.2vh;
+
+    
+}
+.formb{
+    position: absolute;
+    width: 100px;
+    height: 3vh;
+    left: 100px;
+    top: 330px;
+
+    
+}

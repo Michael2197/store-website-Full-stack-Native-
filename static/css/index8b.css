@@ -1,0 +1,1374 @@
+
+
+
+  
+
+
+.hole{
+    
+  background-color: white;
+  position: relative;
+  top: -8px;
+  left: 15%;
+  width: 1111px;
+  height: 1425px;
+}
+
+
+      .item1 {
+        background-color: white;
+        width: 184%;
+        height: 85px;
+        position: absolute;
+        top: 0%;
+        left: -23%;
+        background-attachment: fixed;
+        display: inline-block;
+       
+    }
+
+
+
+ .child2{
+
+  
+
+  position: absolute;
+  top: 34%;
+  left: 0%;
+   
+    font-size: small;
+    cursor: pointer;
+    padding-bottom: 33px;
+    font-family: 'Poppins',sans-serif;
+    border-bottom: 2px solid transparent;
+}
+
+.child2:hover{
+
+  border-color: gray;
+}
+.child3{
+
+  position: absolute;
+  top: 34%;
+  left: 6%;
+  font-size: small;
+  font-family: 'Poppins',sans-serif;
+  cursor: pointer;
+  padding-bottom: 33px;
+  border-bottom: 2px solid transparent;
+
+}
+
+.child3:hover{
+
+  border-color: gray;
+}
+
+.child4{
+
+  position: absolute;
+  top: 34%;
+  left: 10%;
+  cursor: pointer;
+  padding-bottom: 33px;
+  border-bottom: 2px solid transparent;
+  
+  font-size: small;
+  font-family: 'Poppins',sans-serif;
+}
+.child4:hover{
+
+  border-color: gray;
+}
+.child5{
+
+  position: absolute;
+  top: 34%;
+  left: 13%;
+  cursor: pointer;
+  padding-bottom: 33px;
+  border-bottom: 2px solid transparent;
+  font-size: small;
+  font-family: 'Poppins',sans-serif;
+}
+.child5:hover{
+
+  border-color: gray;
+}
+.child6{
+
+  position: absolute;
+  top: 34%;
+  left: 17%;
+  cursor: pointer;
+  padding-bottom: 33px;
+  border-bottom: 2px solid transparent;
+   font-size: small;
+   font-family: 'Poppins',sans-serif;
+}
+.child6:hover{
+
+  border-color: gray;
+}
+
+.child7{
+  position: absolute;
+    top: 2%;
+    left: 133%;
+    cursor: pointer;
+    font-weight: bold;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 32px;
+
+}
+.child7:hover{
+
+  border-color: gray;
+}
+
+
+
+.child8{
+  position: absolute;
+    top: 2%;
+    left: 143%;
+    cursor: pointer;
+    font-weight: bold;
+    padding-bottom: 32px;
+
+    border-bottom: 2px solid transparent;
+
+
+}
+.child8:hover{
+
+  border-color: gray;
+}
+.child9{
+  position: absolute;
+    top: 2%;
+    left: 145%;
+    cursor: pointer;
+    font-weight: bold;
+    padding-bottom: 32px;
+
+    border-bottom: 2px solid transparent;
+
+}
+.child9:hover{
+
+  border-color: gray;
+}
+
+
+.child10{
+  position: absolute;
+  top: 1.8%;
+  left: 144%;
+  cursor: pointer;
+  font-size:large;
+  width: 5%;
+  padding-bottom: 32px;
+  border-bottom: 2px solid transparent;
+}
+.child10:hover{
+
+  border-color: gray;
+}
+
+
+
+
+
+
+
+
+
+ 
+ 
+    
+
+
+
+  
+       .item1a{
+        background-color: white;
+      width: 100%;
+      height: 98%;
+      position: absolute;
+      top: 2%;
+      left: 0%;
+       }
+       .item1b{
+        background-color: white;
+        position: absolute;
+        top: 0px;
+        left: 627px;
+        width: 422px;
+    }
+    
+  
+  
+  
+  
+       
+  
+    .bu{
+      color: black;
+    position: absolute;
+    top: 24%;
+    left: 48%;
+    cursor: pointer;
+    font-size: 19px;
+    font-weight: bolder;
+    font-family: 'Poppins',sans-serif;
+    letter-spacing: 0.3em;
+}
+
+    .no2{
+      color: gray;
+      position: absolute;
+      top: 60%;
+      left: 48%;
+      cursor: pointer;
+      font-size: large;
+      letter-spacing: 0.5em;
+      text-decoration: overline;
+  }
+
+  
+ 
+  
+   .item2{
+    background-image: url(../imgs/لقطة\ شاشة\ 2023-04-27\ 172030.png);
+    background-origin: border-box;
+    background-position: inherit;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 94%;
+    height: 587px;
+    position: absolute;
+    top: 80px;
+    left: 3%;
+   }
+   
+   
+  
+  .button1{
+    background-color: black;
+    color: white;
+    padding: 16px;
+    position: absolute;
+    top: 60%;
+    left: 445px;
+    width: 7%;
+    cursor: pointer;
+    text-align: center;
+    font-family: 'Poppins',sans-serif;
+
+}
+.button1:hover{
+
+  color: gray;
+}
+
+  
+  
+  
+  
+  
+  .item3{
+    background-color: white;
+    position: relative;
+    top: -711px;
+    left: 858px;
+    width: 480px;
+    height: 16%;
+    font-family: 'Poppins',sans-serif;
+    text-align: center;
+  
+  
+  }
+  .item3a{
+    color: black;
+    font-size: smaller;
+  
+  }
+  .item3b{
+    color: black;
+    font-size: larger;
+    letter-spacing: 0.1em;
+
+  
+  }
+  
+  
+  .item4{
+    background-color: white;
+    position: absolute;
+    top: 80%;
+    left: 22%;
+    width: 56%;
+    height: 35vh
+
+
+
+  }
+  
+  
+  
+  
+  .item4a{
+    background-image: url(..//imgs/product-06-a.jpg);
+    background-origin: border-box;
+    background-position: inherit;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0%;
+    left: 26%;
+    width: 24%;
+    height: 35vh;
+
+  }
+  .item4a:hover{
+    background-image: url(..//imgs/product-01-d-600x731.jpg);
+
+  }
+  .item4b{
+    background-image: url(..//imgs/product-10-a.jpg);
+    background-origin: border-box;
+    background-position: inherit;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0%;
+    left: 52%;
+    width: 24%;
+    height: 35vh;
+
+  }
+  .item4b:hover{
+    background-image: url(..//imgs/product-01-d-600x731.jpg);
+
+
+  }
+  .item4c{
+    background-image: url(..//imgs/product-08-a.jpg);
+    background-origin: border-box;
+    background-position: inherit;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0%;
+    left: 78%;
+    width: 24%;
+    height: 35vh;
+
+  }
+  
+
+
+  
+  .item4c:hover{
+    background-image: url(..//imgs/product-001-b-600x731.jpg);
+
+
+  }
+  .item4d{
+    background-image: url(..//imgs/product-09-a.jpg);
+    background-origin: border-box;
+    background-position: inherit;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 24%;
+    height: 35vh;
+
+  }
+  .item4d:hover{
+    background-image: url(..//imgs/product-01-c-600x731.jpg);
+
+
+  }
+
+  .item5{
+    
+    position: absolute;
+    top: 115%;
+    left: 22%;
+    width: 57%;
+    height: 10vh;
+  }
+  .item5a{
+    background-color: white;
+    position: absolute;
+    top: 0%;
+    left: 318px;
+    width: 23%;
+    height: 10vh;
+    font-size: x-small;
+}
+
+  
+  .item5b{
+    background-color: white;
+    position: absolute;
+    top: 0%;
+    left: 635px;
+    width: 23%;
+    height: 10vh;
+    font-size: x-small;
+
+  }
+  .item5c{
+    background-color: white;
+    position: absolute;
+    top: 0%;
+    left: 952px;
+    width: 23%;
+    height: 10vh;
+    font-size: x-small;
+}
+
+  
+  .item5d{
+    background-color: white;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 23%;
+    height: 10vh;
+    font-size: x-small;
+
+  }
+  
+  
+  
+  
+  
+  .item6{
+    background-color: white;
+    position: absolute;
+    top: 133%;
+    left: 22%;
+    width: 58%;
+    height: 63vh;
+}
+
+
+  .item6a{
+    background-image: url(..//imgs/collection-01.jpg);
+    background-origin: border-box;
+    background-position: inherit;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    width: 50%;
+    height: 63vh;
+}
+.item6b{
+  background-image: url(..//imgs/collection-02.jpg);
+  background-origin: border-box;
+  background-position: inherit;
+  background-size: cover;
+  background-repeat: no-repeat;
+      position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 48%;
+    height: 50vh;
+}
+.item6c{
+  background-color: white;
+    position: absolute;
+    top: 72%;
+    left: 0%;
+    width: 48%;
+    height: 18vh;
+    text-align: center;
+    font-size: large;
+    font-family: 'Poppins',sans-serif;
+}
+
+.item6c1{
+  position: absolute;
+  top: 77%;
+  left: -18%;
+  width: 100%;
+  height: 16vh;
+  text-align: center;
+  font-size: large;
+  font-family: 'Poppins',sans-serif;
+}
+
+
+
+
+
+
+
+.item7{
+  background-image: url(../imgs/tshirt-update.jpeg);
+    background-color: black;
+    opacity: 0.8;
+    background-origin: border-box;
+    background-position: inherit;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 94%;
+    height: 68vh;
+    position: absolute;
+    top: 205%;
+    left: 3%;
+    
+}
+
+    
+
+.item7a{
+  background-color: transparent;
+    position: absolute;
+    width: 47%;
+    height: 24vh;
+    top: 38%;
+    left: 23%;
+    text-align: center;
+    font-family: 'Poppins',sans-serif;
+    color: black;
+    font-weight: bolder;
+    font-size: large;
+
+}
+.item7b{
+    position: absolute;
+    
+    top: 38%;
+    left: 23%;
+}
+
+    
+.button2{
+  background-color: black;
+  color: white;
+  padding: 16px;
+  position: absolute;
+  top: 70%;
+  left: 391px;
+  width: 12%;
+  cursor: pointer;
+  text-align: center;
+  font-family: 'Poppins',sans-serif;
+}
+
+
+.button2:hover{
+
+color: gray;
+}
+
+
+.item8{
+
+  background-color: #FFEBEB;
+  width: 52%;
+  height: 63vh;
+  position: absolute;
+  top: 289%;
+  left: 3%;
+}
+
+.item8a{
+  background-image: url(../imgs/collection-03.jpg);
+    width: 45%;
+    height: 63vh;
+    position: absolute;
+    top: -9%;
+    left: 41%;
+}
+.item8b{
+  background-color: transparent;
+    width: 53%;
+    height: 32vh;
+    position: absolute;
+    top: 23%;
+    left: 90%;
+    font-family: 'Poppins',sans-serif;
+
+}
+
+.button3{
+  background-color: black;
+    color: white;
+    padding: 16px;
+    position: absolute;
+    top: 62%;
+    left: 1px;
+    width: 29%;
+    cursor: pointer;
+    text-align: center;
+    font-family: 'Poppins',sans-serif;
+}
+
+
+
+.button3:hover{
+
+color: gray;
+}
+
+
+.item9{
+  background-color: white;
+    position: relative;
+    top: 2449px;
+    left: 858px;
+    width: 480px;
+    height: 16%;
+    font-family: 'Poppins',sans-serif;
+    text-align: center;
+
+}
+.item9a{
+  color: black;
+  font-size: smaller;
+
+}
+.item9b{
+  color: black;
+  font-size: larger;
+  letter-spacing: 0.1em;
+
+
+}
+
+
+.item10{
+  background-color: white;
+    position: absolute;
+    top: 375%;
+    left: 22%;
+    width: 56%;
+    height: 35vh;
+
+
+
+}
+
+
+
+
+.item10a{
+  background-image: url(..//imgs/product-05-a.jpg);
+  background-origin: border-box;
+  background-position: inherit;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0%;
+  left: 26%;
+  width: 24%;
+  height: 35vh;
+
+}
+.item10a:hover{
+  background-image: url(..//imgs/product-001-b-600x731.jpg);
+
+
+}
+.item10b{
+  background-image: url(..//imgs/product-10-a.jpg);
+  background-origin: border-box;
+  background-position: inherit;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0%;
+  left: 52%;
+  width: 24%;
+  height: 35vh;
+
+}
+.item10b:hover{
+  background-image: url(..//imgs/product-01-d-600x731.jpg);
+
+
+}
+.item10c{
+  background-image: url(..//imgs/product-08-a.jpg);
+  background-origin: border-box;
+  background-position: inherit;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0%;
+  left: 78%;
+  width: 24%;
+  height: 35vh;
+
+}
+.item10c:hover{
+  background-image: url(..//imgs/product-001-b-600x731.jpg);
+
+
+}
+.item10d{
+  background-image: url(..//imgs/product-01-a.jpg);
+  background-origin: border-box;
+  background-position: inherit;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 24%;
+  height: 35vh;
+
+}
+.item10d:hover{
+  background-image: url(..//imgs/product-001-b-600x731.jpg);
+
+
+}
+ 
+.item11{
+    
+  position: absolute;
+  top: 410%;
+  left: 22%;
+  width: 57%;
+  height: 10vh;
+}
+.item11a{
+  background-color: white;
+  position: absolute;
+  top: 0%;
+  left: 318px;
+  width: 23%;
+  height: 10vh;
+  font-size: x-small;
+}
+
+
+.item11b{
+  background-color: white;
+  position: absolute;
+  top: 0%;
+  left: 635px;
+  width: 23%;
+  height: 10vh;
+  font-size: x-small;
+
+}
+.item11c{
+  background-color: white;
+  position: absolute;
+  top: 0%;
+  left: 952px;
+  width: 23%;
+  height: 10vh;
+  font-size: x-small;
+}
+
+
+.item11d{
+  background-color: white;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 23%;
+  height: 10vh;
+  font-size: x-small;
+
+}
+.item12{
+
+  background-color: white;
+    position: absolute;
+    top: 429%;
+    left: 844px;
+    width: 23%;
+    height: 21vh;
+    text-align: center;
+    font-size: larger;
+    font-family: 'Poppins',sans-serif;
+
+}
+.item12a{
+
+  text-decoration: underline;
+}
+
+
+.item13{
+  background-image: url(..//imgs/five-5-star-rank-sign-illustration-free-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: 445%;
+    left: 1025px;
+    width: 5%;
+    height: 6vh
+}
+.item13a{ 
+  position: absolute;
+    top: 20%;
+    left: 14px;
+    width: 94%;
+    height: 21vh;
+    font-size: small;
+}
+
+  
+.item14{ 
+
+  background-color: white;
+    width: 57%;
+    height: 55vh;
+    position: absolute;
+    top: 461%;
+    left: 21%;
+}
+
+
+.item14a{ 
+
+  background-image: url(..//imgs/cat-men-600x600.jpg);
+  background-origin: border-box;
+  background-position: inherit;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+
+    width: 49%;
+    height: 55vh;
+    top: 0%;
+    left: 0%;
+}
+
+
+
+.item14b{ 
+
+  background-image: url(..//imgs/cat-women-600x600.jpg);
+  background-origin: border-box;
+  background-position: inherit;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute; 
+   width: 49%;
+    height: 55vh;
+    top: 0%;
+    left: 51%;
+}
+
+
+.item14aa{ 
+
+  background-color: white;
+   opacity: 0.7;
+    position: absolute;
+    width: 47%;
+    height: 5vh;
+    top: 89%;
+    left: 1%;
+    cursor: pointer;
+    text-align: center;
+    font-size: 45%;
+    font-weight: bolder;
+
+    font-family: 'Poppins',sans-serif;
+
+}
+.item14aa:hover{
+  opacity: 1;
+
+}
+
+.item14bb{ 
+
+  background-color: white;
+  opacity: 0.7;
+
+    position: absolute;
+    width: 47%;
+    height: 5vh;
+    top: 89%;
+    left: 52%;
+    cursor: pointer;
+    text-align: center;
+    font-size: 45%;
+    font-weight: bolder;
+
+
+    font-family: 'Poppins',sans-serif;
+
+}
+
+.item14bb:hover{
+  opacity: 1;
+
+}
+
+.item15{
+
+
+  background-color: #FFEBEB;
+    position: absolute;
+    width: 94%;
+    height: 60vh;
+    top: 539%;
+    left: 3%;
+
+}
+.item15a{
+
+
+  text-align: center;
+  background-color: #FFEBEB;
+    position: absolute;
+    width: 54%;
+    height: 11vh;
+    top: 8%;
+    left: 22%;
+
+}
+
+#Subscribe input{
+  display: block;
+    padding: 10px;
+    border: 1px solid;
+    font-size: 16px;
+    box-sizing: border-box;
+    position: absolute;
+    top: 36%;
+    left: 22%;
+    width: 47%;
+    
+}
+
+#Subscribe button{
+  background: black;
+    padding: 10px 5px;
+    font-size: 16px;
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+    top: 36%;
+    left: 70%;
+    width: 140px;
+    color: white;
+}
+
+#Subscribe button:hover{
+  color: gray;
+
+
+
+
+}
+
+.item15b{
+
+
+  background-color: #FFEBEB;
+  width: 100%;
+  height: 85px;
+  position: absolute;
+  top: 46%;
+  left: 0%;
+  background-attachment: fixed;}
+
+.childn2{
+
+  
+  color: gray;
+
+  position: absolute;
+  top: 34%;
+  left: 39%;
+   
+    font-size: small;
+    cursor: pointer;
+    padding-bottom: 33px;
+    font-family: 'Poppins',sans-serif;
+    border-bottom: 2px solid transparent;
+}
+.childn2:hover{
+
+  color: black;
+}
+
+
+
+.childn3{
+  color: gray;
+
+
+  position: absolute;
+  top: 34%;
+  left: 45%;
+  font-size: small;
+  font-family: 'Poppins',sans-serif;
+  cursor: pointer;
+  padding-bottom: 33px;
+  border-bottom: 2px solid transparent;
+
+}
+.childn3:hover{
+
+  color: black;
+}
+
+
+.childn4{
+  color: gray;
+
+
+  position: absolute;
+  top: 34%;
+  left: 49%;
+  cursor: pointer;
+  padding-bottom: 33px;
+  border-bottom: 2px solid transparent;
+  
+  font-size: small;
+  font-family: 'Poppins',sans-serif;
+}
+.childn4:hover{
+
+  color: black;
+}
+
+.childn5{
+  color: gray;
+
+
+  position: absolute;
+  top: 34%;
+  left: 52%;
+  cursor: pointer;
+  padding-bottom: 33px;
+  border-bottom: 2px solid transparent;
+  font-size: small;
+  font-family: 'Poppins',sans-serif;
+}
+.childn5:hover{
+
+  color: black;
+}
+
+.childn6{
+  color: gray;
+
+
+  position: absolute;
+  top: 34%;
+  left: 56%;
+  cursor: pointer;
+  padding-bottom: 33px;
+  border-bottom: 2px solid transparent;
+   font-size: small;
+   font-family: 'Poppins',sans-serif;
+}
+.childn6:hover{
+
+  color: black;
+}
+
+
+
+.item15c{
+
+
+  background-color: black;
+    position: absolute;
+    width: 100%;
+    height: 6vh;
+    top: 88%;
+    left: 0%;
+    color: white;
+    text-align: center;
+
+}
+.item15d{
+
+
+  background-color: #FFEBEB;
+    position: absolute;
+    width: 15%;
+    height: 5vh;
+    top: 56%;
+    left: 42%;
+
+}
+.item15d1{
+
+
+  background-color: white;
+    position: absolute;
+    width: 15%;
+    height: 5vh;
+    top: 0%;
+    left: 21%;
+    text-align: center;
+}
+.item15d1:hover{
+
+  background-color: #FFEBEB;
+
+}
+
+
+.item15d2{
+
+
+  background-color: white;
+    position: absolute;
+    width: 15%;
+    height: 5vh;
+    top: 1%;
+    left: 43%;
+    text-align: center;
+
+
+}
+.item15d2:hover{
+
+  background-color: #FFEBEB;
+
+}
+.item15d3{
+
+
+  background-color: white;
+    position: absolute;
+    width: 15%;
+    height: 5vh;
+    top: 0%;
+    left: 63%;
+    text-align: center;
+
+}
+
+.item15d3:hover{
+
+  background-color: #FFEBEB;
+
+}
+
+
+
+#pg{
+  display: none;
+  background-attachment: fixed;
+
+  background-color: black;
+  opacity: 0.7;
+
+  width: 101.3%;
+  height: 600vh;
+  position: relative;
+  top: -1668px;
+  left: -1%;
+ 
+
+
+}
+
+#button{
+  background-color: white;
+  color: black;
+  position: absolute;
+  width: 2%;
+  height: 4vh;
+  top: 84px;
+  left: 96%;
+  border-radius: 500ch;
+  font-size: larger;
+  background-attachment: fixed;
+  font-weight: bolder;
+  cursor: pointer;
+
+}
+
+
+
+.search-btn{
+  position: absolute;
+
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+  
+  
+  }
+
+  
+  
+    .input{
+  
+    background-color: black;
+    position: absolute;
+    right: 39%;
+    top: 6%;
+    font-size: 40px;
+    font-weight: bold;
+    border: 0px;
+} 
+  
+  
+   .search-btn{
+  
+  
+    background-color: black;
+      opacity: 0.7;
+      position: absolute;
+      right: 36%;
+      top: 6%;
+      cursor: pointer;
+      font-size: 40px;
+      font-weight: bold;
+      border: 0px;
+  } 
+  
+  #login{
+    display: none;
+    background-color: white;
+    width: 19%;
+    height: 36vh;
+    position: relative;
+    top: -245%;
+    left: 80.3%;
+    text-align: justify;
+    font-weight: bold;
+    color: white;
+    font-size: small;
+    border-radius: 5ch;
+    border: 2px solid #F1F6F9;
+}
+
+  
+  .bs{
+    background-color: pink;
+    color: black;
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    cursor: pointer;
+    font-size: 21px;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    border-radius: 3ch;
+    height: 33%;
+}
+
+
+
+.bs2{
+  background-color: transparent;
+    color: black;
+    position: absolute;
+    right: 14%;
+    top: 21%;
+    cursor: pointer;
+    font-size: 23px;
+    font-weight: bold;
+    width: 71%;
+    text-align: center;
+}
+
+
+  .input2{
+    position: absolute;
+    background-color: #F1F6F9;
+    right: 6%;
+    top: 42%;
+    font-size: 16px;
+    font-weight: bold;
+    width: 86%;
+    height: 5.3vh;
+    border: 0.5px ;
+    border-radius: 8.8px;
+
+  }
+  .input3{
+    position: absolute;
+    background-color: #F1F6F9;
+    right: 6%;
+    top: 62%;
+    font-size: 16px;
+    font-weight: bold;
+    width: 86%;
+    height: 5.3vh;
+    border: 0.5px ;
+    border-radius: 8.8px;
+
+}
+
+.info{
+  position: absolute;
+  color: black;
+  top: 55%;
+  left: 25%;
+  font-size: larger;
+  font-weight: bold;
+  
+  
+  }
+
+  
+  .bb{
+    background-color: pink;
+    color: black;
+    position: absolute;
+    right: 8%;
+    top: 84%;
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: bold;
+    width: 86%;
+    height: 6vh;
+    border: 0px;
+    border-radius: 32.8px;
+}
+.bb:hover{
+
+  background-color: white;
+  color: pink;
+
+
+
+
+
+}
+
+
+.prod{
+  display: none;
+  position: relative;
+  background-color: wheat;
+  top: -1588px;
+  width: 750px;
+  height: 40vh;
+  left: 58px;
+}
+
+
+
+
+
+  
+  
+
+
+  
+  
